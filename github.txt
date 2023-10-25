@@ -1,0 +1,1 @@
+Accounts allow you to organize and control access to that code. There are three types of accounts on GitHub. Every person who uses GitHub signs into a personal account. An organization account enhances collaboration between multiple personal accounts, and an enterprise account allows central management of multiple organizations
